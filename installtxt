@@ -1,0 +1,8 @@
+﻿Hello everyone, to use this software, first install the following libraries
+
+pip install tkinter
+
+pip install pyperclip
+
+
+Developed by mg_shot
