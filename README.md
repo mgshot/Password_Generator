@@ -4,6 +4,6 @@
 
 ```pip install pyperclip```
 
-- [] New Update!
+- [ ] New Update!
 
 Developed by mg_shot
